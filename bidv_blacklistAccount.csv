@@ -1,0 +1,11 @@
+account_num,customer_id,account_holder_name,bank_name,account_status,last_updated_date,reason
+1234567890,CUST10001,Nguyen Duc Minh,BIDV,Blocked,2026/09/21,Suspected fraudulent transactions
+BENE_002,CUST10002,Tran Ngoc Lan,ABCBank,Frozen,2026/10/02,Unusual transaction activity
+BENE002,CUST10003,Le Quang Vinh,BIDV,Under Review,2026/05/03,AML compliance review
+BENE004,CUST10004,Pham Thu Trang,ABCBank,Blocked,2026/10/01,Reported phishing-related activity
+2.10E+11,CUST10005,Vo Thanh Tung,VPBank,Frozen,2026/09/21,Potential money laundering indicators
+BENE001,CUST10006,Bui Mai Phuong,BIDV,Under Review,2026/10/02,Disputed transactions
+68123456789,CUST10007,Dang Hoang Nam,Sacombank,Blocked,2026/05/03,Suspected account takeover
+1.50E+11,CUST10008,Hoang Thuy Linh,Agribank,Frozen,2026/02/22,Unverified source of funds
+BENE003,CUST10009,Do Minh Khang,Vietcombank,Under Review,2026/07/03,Internal risk review
+2.00E+11,CUST10010,Nguyen Thi Kim Oanh,MB Bank,Blocked,2026/07/04,Reported fraudulent transfer
